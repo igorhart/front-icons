@@ -1,0 +1,11 @@
+.icon( @extension: ''; @icon: ''; ) {
+
+  .icon[data-name$="@{extension}"] {
+
+    &:before {
+      font-family: "front-icons";
+      content: "@{icon-@{icon}}";
+      font-size: 16px;
+    }
+  }
+}

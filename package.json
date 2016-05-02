@@ -1,0 +1,15 @@
+{
+  "name": "front-icons",
+  "main": "index",
+  "version": "0.0.0",
+  "description": "A set of hand-crafted, pixel-perfect front-end icons.",
+  "keywords": [
+    "front",
+    "icons"
+  ],
+  "repository": "https://github.com/igorskuhar/front-icons",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
