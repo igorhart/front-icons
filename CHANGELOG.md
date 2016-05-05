@@ -1,3 +1,7 @@
+## 0.5.0 - Broken rules (2016-05-05)
+### Added
+* eslint (.eslintrc.js, .eslintrc.yaml, .eslintrc.yml, .eslintrc.json, .eslintrc)
+
 ## 0.4.0 - Bling bling (2016-05-05)
 ### Added
 * sketch (.sketch)
