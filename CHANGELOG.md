@@ -1,3 +1,7 @@
+## 0.4.0 - Bling bling (2016-05-05)
+### Added
+* sketch (.sketch)
+
 ## 0.3.1 - Greedy pixels (2016-05-05)
 ### Fixed
 * Size of preview.png is too big
