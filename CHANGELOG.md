@@ -1,3 +1,7 @@
+## 0.6.1 - Wrong path (2016-05-08)
+### Fixed
+* Absolute path to preview image
+
 ## 0.6.0 - Good vibes (2016-05-07)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.6.0/assets/icons/audio.svg" height="16"> audio (.mp3, .ogg, .wav)
@@ -12,7 +16,7 @@
 
 ## 0.3.1 - Greedy pixels (2016-05-05)
 ### Fixed
-* Size of preview.png is too big
+* Size of preview.png is too big (#1)
 
 ## 0.3.0 - Third party (2016-05-04)
 ### Added
