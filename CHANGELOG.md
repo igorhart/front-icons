@@ -1,10 +1,14 @@
+## 0.6.0 - Good vibes (2016-05-07)
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.6.0/assets/icons/audio.svg" height="16"> audio (.mp3, .ogg, .wav)
+
 ## 0.5.0 - Broken rules (2016-05-05)
 ### Added
-* eslint (.eslintrc.js, .eslintrc.yaml, .eslintrc.yml, .eslintrc.json, .eslintrc)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.5.0/assets/icons/eslint.svg" height="16"> eslint (.eslintrc.js, .eslintrc.yaml, .eslintrc.yml, .eslintrc.json, .eslintrc)
 
 ## 0.4.0 - Bling bling (2016-05-05)
 ### Added
-* sketch (.sketch)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.4.0/assets/icons/sketch.svg" height="16"> sketch (.sketch)
 
 ## 0.3.1 - Greedy pixels (2016-05-05)
 ### Fixed
@@ -12,26 +16,26 @@
 
 ## 0.3.0 - Third party (2016-05-04)
 ### Added
-* ai (.ai)
-* ps (.psd)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.3.0/assets/icons/ai.svg" height="16"> ai (.ai)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.3.0/assets/icons/ps.svg" height="16"> ps (.psd)
 
 ### Changed
-* js (.js)
-* npm (node_modules, .npmignore)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.3.0/assets/icons/js.svg" height="16"> js (.js)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.3.0/assets/icons/npm.svg" height="16"> npm (node_modules, .npmignore)
 
 ## 0.2.0 - Second look (2016-05-03)
 ### Added
-* vector (.eps, .svg)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.2.0/assets/icons/vector.svg" height="16"> vector (.eps, .svg)
 
 ## 0.1.0 - First blood (2016-05-03)
 ### Added
-* css (.css)
-* git (.gitignore, .gitkeep)
-* html (.htm, .html, .xml)
-* js (.js)
-* json (.json)
-* jsx (.jsx)
-* markdown (.markdown, .md)
-* npm (node_modules, .npmignore)
-* sass (.sass, .scss)
-* webpack (webpack.config.js)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/css.svg" height="16"> css (.css)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/git.svg" height="16"> git (.gitignore, .gitkeep)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/html.svg" height="16"> html (.htm, .html, .xml)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/js.svg" height="16"> js (.js)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/json.svg" height="16"> json (.json)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/jsx.svg" height="16"> jsx (.jsx)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/markdown.svg" height="16"> markdown (.markdown, .md)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/npm.svg" height="16"> npm (node_modules, .npmignore)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/sass.svg" height="16"> sass (.sass, .scss)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/webpack.svg" height="16"> webpack (webpack.config.js)
