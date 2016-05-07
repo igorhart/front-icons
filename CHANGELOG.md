@@ -1,24 +1,24 @@
-## 0.6.1 - Wrong path (2016-05-08)
+## 0.6.1 Wrong path (2016-05-08)
 ### Fixed
 * Absolute path to preview image
 
-## 0.6.0 - Good vibes (2016-05-07)
+## 0.6.0 Good vibes (2016-05-07)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.6.0/assets/icons/audio.svg" height="16"> audio (.mp3, .ogg, .wav)
 
-## 0.5.0 - Broken rules (2016-05-05)
+## 0.5.0 Broken rules (2016-05-05)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.5.0/assets/icons/eslint.svg" height="16"> eslint (.eslintrc.js, .eslintrc.yaml, .eslintrc.yml, .eslintrc.json, .eslintrc)
 
-## 0.4.0 - Bling bling (2016-05-05)
+## 0.4.0 Bling bling (2016-05-05)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.4.0/assets/icons/sketch.svg" height="16"> sketch (.sketch)
 
-## 0.3.1 - Greedy pixels (2016-05-05)
-### Fixed
-* Size of preview.png is too big (#1)
+## 0.3.1 Greedy pixels (2016-05-05)
+### Merged
+* Size of preview.png is too big ([#1](https://github.com/igorskuhar/front-icons/pull/1))
 
-## 0.3.0 - Third party (2016-05-04)
+## 0.3.0 Third party (2016-05-04)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.3.0/assets/icons/ai.svg" height="16"> ai (.ai)
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.3.0/assets/icons/ps.svg" height="16"> ps (.psd)
@@ -27,11 +27,11 @@
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.3.0/assets/icons/js.svg" height="16"> js (.js)
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.3.0/assets/icons/npm.svg" height="16"> npm (node_modules, .npmignore)
 
-## 0.2.0 - Second look (2016-05-03)
+## 0.2.0 Second look (2016-05-03)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.2.0/assets/icons/vector.svg" height="16"> vector (.eps, .svg)
 
-## 0.1.0 - First blood (2016-05-03)
+## 0.1.0 First blood (2016-05-03)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/css.svg" height="16"> css (.css)
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.1.0/assets/icons/git.svg" height="16"> git (.gitignore, .gitkeep)
