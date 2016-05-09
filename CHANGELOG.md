@@ -1,3 +1,8 @@
+## 0.7.0 Digital typewriter
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.7.0/assets/icons/type.svg" height="16"> type (.eot, .otf, .ttf, .woff, .woff2)
+* .git extension
+
 ## 0.6.1 Wrong path (2016-05-08)
 ### Fixed
 * Absolute path to preview image
