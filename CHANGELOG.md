@@ -1,3 +1,7 @@
+## 0.7.1 Empty index
+### Closed
+* Main entry point file can be removed ([#2](https://github.com/igorskuhar/front-icons/issues/2))
+
 ## 0.7.0 Digital typewriter
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.7.0/assets/icons/type.svg" height="16"> type (.eot, .otf, .ttf, .woff, .woff2)
