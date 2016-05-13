@@ -1,3 +1,8 @@
+## 0.8.0 Clear image
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.8.0/assets/icons/image.svg" height="16"> type (.gif, .jpeg, .jpg, .png, .tiff)
+* .gitattributes extension
+
 ## 0.7.1 Empty index
 ### Closed
 * Main entry point file can be removed ([#2](https://github.com/igorskuhar/front-icons/issues/2))
