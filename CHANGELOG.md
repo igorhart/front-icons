@@ -1,6 +1,6 @@
 ## 0.8.0 Clear image
 ### Added
-* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.8.0/assets/icons/image.svg" height="16"> type (.gif, .jpeg, .jpg, .png, .tiff)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.8.0/assets/icons/image.svg" height="16"> image (.gif, .jpeg, .jpg, .png, .tiff)
 * .gitattributes extension
 
 ## 0.7.1 Empty index
