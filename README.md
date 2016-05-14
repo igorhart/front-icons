@@ -1,5 +1,5 @@
 # Front Icons
-An [Atom](https://atom.io/) package adding hand-crafted, pixel-perfect icons next to the filenames based on the extension.
+An [Atom](https://atom.io/) package adding hand-crafted, pixel-perfect icons next to the filenames (tree, tabs, fuzzy finder) based on the extension.
 
 ## How to install
 ```

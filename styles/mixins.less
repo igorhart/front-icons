@@ -1,10 +1,11 @@
 .icon( @extension: ''; @icon: ''; ) {
 
-  .icon[data-name$="@{extension}"] {
+  .icon,
+  .tab-bar .tab .title {
 
-    &:before {
-      font-family: "front-icons";
+    &[data-name$="@{extension}"]:before {
       content: "@{icon-@{icon}}";
+      font-family: "front-icons";
       font-size: 16px;
     }
   }
