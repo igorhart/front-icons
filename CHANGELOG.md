@@ -1,3 +1,8 @@
+## 1.0.1 Hyper type
+### Changed
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.0.1/assets/icons/html.svg" height="16"> html (.htm, .html, .xml)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.0.1/assets/icons/type.svg" height="16"> type (.eot, .otf, .ttf, .woff, .woff2)
+
 ## 1.0.0 Tab opener
 ### Added
 * Support for tab icons
