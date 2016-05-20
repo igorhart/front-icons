@@ -1,4 +1,4 @@
-## 1.1.0 Positive flow
+## 1.1.0 Positive flow (2016-05-20)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.1.0/assets/icons/flow.svg" height="16"> flow (.flowconfig, .js.flow)
 
@@ -8,29 +8,29 @@
 ### Closed
 * Requesting Flow icon ([#3](https://github.com/igorskuhar/front-icons/issues/3))
 
-## 1.0.1 Hyper type
+## 1.0.1 Hyper type (2016-05-16)
 ### Changed
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.0.1/assets/icons/html.svg" height="16"> html (.htm, .html, .xml)
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.0.1/assets/icons/type.svg" height="16"> type (.eot, .otf, .ttf, .woff, .woff2)
 
-## 1.0.0 Tab opener
+## 1.0.0 Tab opener (2016-05-14)
 ### Added
 * Support for tab icons
 
-## 0.8.1 Bitmap teeth
+## 0.8.1 Bitmap teeth (2016-05-13)
 ### Added
 * Extensions: .bmp, .tif
 
-## 0.8.0 Clear image
+## 0.8.0 Clear image (2016-05-13)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.8.0/assets/icons/image.svg" height="16"> image (.gif, .jpeg, .jpg, .png, .tiff)
 * Extensions: .gitattributes
 
-## 0.7.1 Empty index
+## 0.7.1 Empty index (2016-05-10)
 ### Closed
 * Main entry point file can be removed ([#2](https://github.com/igorskuhar/front-icons/issues/2))
 
-## 0.7.0 Digital typewriter
+## 0.7.0 Digital typewriter (2016-05-09)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.7.0/assets/icons/type.svg" height="16"> type (.eot, .otf, .ttf, .woff, .woff2)
 * Extensions: .git
