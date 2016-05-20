@@ -1,3 +1,13 @@
+## 1.1.0 Positive flow
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.1.0/assets/icons/flow.svg" height="16"> flow (.flowconfig, .js.flow)
+
+### Changed
+* One file example per icon (preview)
+
+### Closed
+* Requesting Flow icon ([#3](https://github.com/igorskuhar/front-icons/issues/3))
+
 ## 1.0.1 Hyper type
 ### Changed
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.0.1/assets/icons/html.svg" height="16"> html (.htm, .html, .xml)
