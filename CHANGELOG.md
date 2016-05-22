@@ -1,3 +1,7 @@
+## 1.1.1 Less is more (2016-05-22)
+### Added
+* Extensions: .less (using .css icon)
+
 ## 1.1.0 Positive flow (2016-05-20)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.1.0/assets/icons/flow.svg" height="16"> flow (.flowconfig, .js.flow)
