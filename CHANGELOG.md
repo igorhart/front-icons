@@ -1,3 +1,10 @@
+## 1.2.0 Twin snakes (2016-05-23)
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.2.0/assets/icons/ts.svg" height="16"> ts (.ts, .tsx)
+
+### Changed
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.2.0/assets/icons/js.svg" height="16"> js (.js)
+
 ## 1.1.1 Less is more (2016-05-22)
 ### Added
 * Extensions: .less (using .css icon)

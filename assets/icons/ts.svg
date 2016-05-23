@@ -5,6 +5,6 @@
 <style type="text/css">
 	.st0{fill:#231F20;}
 </style>
-<path class="st0" d="M0,0v16h16V0H0z M8,14H3v-2v-1h2v1h1V6h2V14z M14,8h-3v1h2c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1H9v-2h3v-1h-2
-	c-0.5,0-1-0.4-1-1V7c0-0.6,0.4-1,1-1h4V8z"/>
+<path id="XMLID_6_" class="st0" d="M0,0v16h16V0H0z M8,8H6v6H4V8H2V6h6V8z M14,8h-3v1h2c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1H9v-2h3
+	v-1h-2c-0.6,0-1-0.4-1-1V7c0-0.6,0.4-1,1-1h4V8z"/>
 </svg>
