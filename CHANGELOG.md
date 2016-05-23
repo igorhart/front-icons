@@ -1,3 +1,5 @@
+## 1.3.0 No changes (2016-05-23)
+
 ## 1.2.0 Twin snakes (2016-05-23)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.2.0/assets/icons/ts.svg" height="16"> ts (.ts, .tsx)
