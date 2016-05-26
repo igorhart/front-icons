@@ -1,3 +1,8 @@
+## 1.5.0 Ivory backup (2016-05-26)
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.5.0/assets/icons/db.svg" height="16"> db (.db, .db3, .sqlite)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.5.0/assets/icons/php.svg" height="16"> php (.php, .php3, .php4, .php5, .phps, .phtml)
+
 ## 1.4.0 Twin snakes (2016-05-23)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.4.0/assets/icons/ts.svg" height="16"> ts (.ts, .tsx)
