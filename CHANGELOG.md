@@ -1,3 +1,7 @@
+## 1.7.0 Toothbrush moustache (2016-05-30)
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.7.0/assets/icons/handlebars.svg" height="16"> handlebars (.handlebars, .hbs)
+
 ## 1.6.0 Twin snakes (2016-05-27)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.6.0/assets/icons/lua.svg" height="16"> lua (.lua)
