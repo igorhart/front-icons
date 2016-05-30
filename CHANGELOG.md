@@ -1,3 +1,7 @@
+## 1.9.1 Moustache trimmer (2016-05-30)
+### Changed
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.9.1/assets/icons/handlebars.svg" height="16"> handlebars (.handlebars, .hbs)
+
 ## 1.9.0 Toothbrush moustache (2016-05-30)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.9.0/assets/icons/handlebars.svg" height="16"> handlebars (.handlebars, .hbs)
