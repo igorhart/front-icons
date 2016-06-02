@@ -1,3 +1,18 @@
+## 1.10.0 Back on track (2016-06-02)
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.10.0/assets/icons/rails.svg" height="16"> rails (.erb)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.10.0/assets/icons/ruby.svg" height="16"> ruby (.gem, .gemspec, .rb, .rbw)
+* Extensions: .sql
+
+### Changed
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.10.0/assets/icons/git.svg" height="16"> git (.git, .gitattributes, .gitignore, .gitkeep)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.10.0/assets/icons/js.svg" height="16"> js (.js)
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.10.0/assets/icons/ts.svg" height="16"> ts (.ts, .tsx)
+
+### Closed
+* Request ruby / rails icons ([#8](https://github.com/igorskuhar/front-icons/issues/8))
+* Sql icon request ([#9](https://github.com/igorskuhar/front-icons/issues/9))
+
 ## 1.9.1 Moustache trimmer (2016-05-30)
 ### Changed
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.9.1/assets/icons/handlebars.svg" height="16"> handlebars (.handlebars, .hbs)
