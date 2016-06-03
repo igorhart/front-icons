@@ -1,3 +1,10 @@
+## 1.11.0 Caret control (2016-06-03)
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.11.0/assets/icons/terminal.svg" height="16"> terminal (.bat, .bin, .cmd, .command, .exe, .sh, .tool)
+
+### Closed
+* Cmd and bat icons request ([#10](https://github.com/igorskuhar/front-icons/issues/10))
+
 ## 1.10.0 Back on track (2016-06-02)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.10.0/assets/icons/rails.svg" height="16"> rails (.erb)
