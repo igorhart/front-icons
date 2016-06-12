@@ -1,3 +1,7 @@
+## 1.12.0 Dino killer (2016-06-12)
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.12.0/assets/icons/meteor.svg" height="16"> meteor (.meteor)
+
 ## 1.11.0 Caret control (2016-06-03)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.11.0/assets/icons/terminal.svg" height="16"> terminal (.bat, .bin, .cmd, .command, .exe, .sh, .tool)
