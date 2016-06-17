@@ -1,3 +1,7 @@
+## 1.12.3 Captain's log (2016-06-17)
+### Added
+* Extensions: npm-debug.log
+
 ## 1.12.2 Icon resurrection (2016-06-17)
 ### Fixed
 * Quick fix for icon mixin
