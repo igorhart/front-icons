@@ -1,9 +1,9 @@
-.icon( @extension: ''; @icon: ''; ) {
+.icon( @icon: ''; @endsWith: ''; @startsWith: '.'; ) {
 
   .icon,
   .tab-bar .tab .title {
 
-    &[data-name$="@{extension}"]:before {
+    &[data-name^="@{startsWith}"][data-name$="@{endsWith}"]:before {
       content: "@{icon-@{icon}}";
       font-family: "front-icons";
       font-size: 16px;
