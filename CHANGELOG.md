@@ -1,3 +1,7 @@
+## 1.12.1 Environmental issue (2016-06-17)
+### Closed
+* Icon issue for prod webpack configuration file ([#13](https://github.com/igorskuhar/front-icons/issues/13))
+
 ## 1.12.0 Dino killer (2016-06-12)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.12.0/assets/icons/meteor.svg" height="16"> meteor (.meteor)
