@@ -1,3 +1,7 @@
+## 1.12.2 Icon resurrection (2016-06-17)
+### Fixed
+* Quick fix for icon mixin
+
 ## 1.12.1 Environmental issue (2016-06-17)
 ### Closed
 * Icon issue for prod webpack configuration file ([#13](https://github.com/igorskuhar/front-icons/issues/13))
