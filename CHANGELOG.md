@@ -1,3 +1,7 @@
+## 1.13.0 Fox lab (2016-06-17)
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.13.0/assets/icons/gitlab.svg" height="16"> gitlab (.gitlab-ci.yml)
+
 ## 1.12.3 Captain's log (2016-06-17)
 ### Added
 * Extensions: npm-debug.log
