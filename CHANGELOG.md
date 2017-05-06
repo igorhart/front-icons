@@ -1,3 +1,7 @@
+## 1.14.0 Hacky axe (2017-05-06)
+### Added
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.14.0/assets/icons/haxe.svg" height="16"> haxe (.hx)
+
 ## 1.13.0 Fox lab (2016-06-17)
 ### Added
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.13.0/assets/icons/gitlab.svg" height="16"> gitlab (.gitlab-ci.yml)
