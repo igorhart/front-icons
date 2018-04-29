@@ -1,24 +1,20 @@
 .icon( @icon: ''; @endsWith: ''; ) {
-
   .icon,
   .tab-bar .tab .title {
-
-    &[data-name$="@{endsWith}"]:before {
-      content: "@{icon-@{icon}}";
-      font-family: "front-icons";
+    &[data-name$='@{endsWith}']:before {
+      content: '@{icon-@{icon}}';
+      font-family: 'front-icons';
       font-size: 16px;
     }
   }
 }
 
 .icon( @icon: ''; @endsWith: ''; @startsWith: ''; ) {
-
   .icon,
   .tab-bar .tab .title {
-
-    &[data-name^="@{startsWith}"][data-name$="@{endsWith}"]:before {
-      content: "@{icon-@{icon}}";
-      font-family: "front-icons";
+    &[data-name^='@{startsWith}'][data-name$='@{endsWith}']:before {
+      content: '@{icon-@{icon}}';
+      font-family: 'front-icons';
       font-size: 16px;
     }
   }

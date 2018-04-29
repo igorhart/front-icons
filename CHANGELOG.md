@@ -1,3 +1,13 @@
+## 1.16.0 Pretty lines (2018-04-29)
+
+### Added
+
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.16.0/assets/icons/prettier.svg" height="16"> prettier (.prettierrc, .prettierignore)
+
+### Fixed
+
+* only files named exactly "webpack.config.js" were getting the webpack icon
+
 ## 1.15.0 Point of Vue (2017-12-03)
 
 ### Added
@@ -194,7 +204,7 @@
 ### Added
 
 * <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v0.5.0/assets/icons/eslint.svg" height="16"> eslint (.eslintrc.js, .eslintrc.yaml, .eslintrc.yml, .eslintrc.json,
-.eslintrc)
+  .eslintrc)
 
 ## 0.4.0 Bling bling (2016-05-05)
 
