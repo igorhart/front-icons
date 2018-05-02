@@ -1,3 +1,9 @@
+## 1.17.0 Rules of style (2018-05-03)
+
+### Added
+
+* <img src="https://cdn.rawgit.com/igorskuhar/front-icons/v1.17.0/assets/icons/stylelint.svg" height="16"> stylelint (.stylelintrc, .stylelintignore)
+
 ## 1.16.0 Pretty lines (2018-04-29)
 
 ### Added
