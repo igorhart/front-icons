@@ -12,7 +12,7 @@ or search for the `front-icons` package in Settings view.
 
 ## Preview
 
-<img src="https://raw.githubusercontent.com/igorskuhar/front-icons/master/preview.png" width="210">
+<img src="https://raw.githubusercontent.com/igorskuhar/front-icons/master/preview.png" width="240">
 
 ## Changelog
 
